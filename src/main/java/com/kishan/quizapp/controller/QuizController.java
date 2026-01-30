@@ -1,12 +1,10 @@
-package com.telusko.quizapp.controller;
+package com.kishan.quizapp.controller;
 
-import com.telusko.quizapp.model.Question;
-import com.telusko.quizapp.model.QuestionWrapper;
-import com.telusko.quizapp.model.Response;
-import com.telusko.quizapp.service.QuizService;
+import com.kishan.quizapp.model.QuestionWrapper;
+import com.kishan.quizapp.model.Response;
+import com.kishan.quizapp.service.QuizService;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

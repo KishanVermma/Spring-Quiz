@@ -1,4 +1,4 @@
-package com.telusko.quizapp.model;
+package com.kishan.quizapp.model;
 
 import lombok.Data;
 

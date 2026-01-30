@@ -1,7 +1,7 @@
-package com.telusko.quizapp.service;
+package com.kishan.quizapp.service;
 
-import com.telusko.quizapp.model.Question;
-import com.telusko.quizapp.dao.QuestionDao;
+import com.kishan.quizapp.model.Question;
+import com.kishan.quizapp.dao.QuestionDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
